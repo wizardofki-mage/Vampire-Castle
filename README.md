@@ -13,7 +13,6 @@ A Pac-Man type game that I programmed in Java from a YouTube tutorial and improv
 * [Features](#Features)
 * [Project status](#Project-status)
 * [Release date](#Release-date)
-* [Acknowledgements](#Acknowledgements)
 * [Sources](#Sources)
 * [Contact](#Contact)
 * [Disclaimer](#Disclaimer)
@@ -66,7 +65,7 @@ Jason Ash, Computer Science Major
 Although I developed this on a fairly recent Windows 11 PC, this program should run comfortably on any working computer with sufficient processing power, RAM, a monitor manufactured within the past 15-20 years, and an Internet connection to download the game source files.
 
 ## Screenshots
-![A screen capture of level 1 of the game in play showing the warrior, vampire, bat, mummy, zombie, coin, and wall sprites](RapunzelScreenshot_2025-06-22_231955.jpg)
+![A screen capture of level 1 of the game in play showing the warrior, vampire, bat, mummy, zombie, coin, and wall sprites](VampireCastleLevel1.png)
 
 ## Features
 - Levels two and three were created on a randomizer program, AsciiMapGenerator.java, that I obtained from a Google AI search summary and edited to meet my needs in creating new levels.
@@ -78,9 +77,6 @@ Completed per the YouTube tutorial with the features mentioned above added and r
 
 ## Release date
 09 May, 2025
-
-## Acknowledgements
-* At first, I was just making a Timber clone with sprites that were derived from images free for non-commercial use. Then, my spouse, Lisa, suggested to have a wizard attacking a tower and avoiding Rapunzel's hair. I decided to make that the game instead.
 
 ## Sources
 - The Pac-Man tutorial that this game is based on was viewed on the Kenny Yip Coding YouTube Channel at https://www.youtube.com/watch?v=lB_J-VNMVpE&t=17s 

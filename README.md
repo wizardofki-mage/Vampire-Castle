@@ -11,6 +11,7 @@ A Pac-Man type game that I programmed in Java from a YouTube tutorial and improv
 * [Minimum hardware requirements](#Minimum-hardware-requirements)
 * [Screenshots](#Screenshots)
 * [Features](#Features)
+* [Room for Improvement](#Room-for-Improvement)
 * [Project status](#Project-status)
 * [Release date](#Release-date)
 * [Sources](#Sources)
@@ -71,6 +72,14 @@ Although I developed this on a fairly recent Windows 11 PC, this program should 
 - Levels two and three were created on a randomizer program, AsciiMapGenerator.java, that I obtained from a Google AI search summary and edited to meet my needs in creating new levels.
 - I edited the random maps slightly humanually since every coin must be reachable to fulfill the level completion condition that all the coins be collected.
 - An extra life is granted if the player picks up 200 coins (every 2000 points since the coins are worth 10 points each).
+
+## Room for Improvement
+- The play control, as shown in the video, is really sticky, and it is difficult to change directions. However, I don't yet know enough how to improve this.
+- There are not yet any items to make the monsters vulnerable so that the warrior can defeat them (similar to a power pellet in Pac-Man that makes the ghosts scared and vulnerable to being eliminated from the board).
+- Currently, the functionality of writing the high score to a file upon game over or closing the game window is broken.
+- Bonus items for extra score, such as the cherry in Pac-Man, are not yet programmed.
+- The game uses semi-random maps and not programmer-designed maps. It also does not have a built-in random or procedurally-generated map feature, yet.
+- Although it only has 3 levels, adding additional pseudorandom-generated levels by copying and pasting the output from the ASCII random map utility is trivial if desired.
 
 ## Project Status
 Completed per the YouTube tutorial with the features mentioned above added and released to GitHub as-is.
